@@ -2,7 +2,6 @@
 **Date:** June 30, 2026  
 **Target:** PortSwigger Academy - JWT authentication bypass via unverified signature  
 **Severity:** High - Full Administrative Account Takeover (ATO)
-**Classification:** Apprentice
 
 ---
 
